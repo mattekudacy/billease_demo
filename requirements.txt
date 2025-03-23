@@ -1,4 +1,4 @@
 gradio
-smoalgents
+smoagents
 Pillow
 streamlit
